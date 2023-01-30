@@ -28,14 +28,19 @@ How to use
 
 There is a mounting base. GAS cylinder must put on that mounting base. Aferthat there will be a Display to show the GAS Level and the date of GAS over.
     
-    
-Codes, Drawings & Images can be found on the following link <https://gitlab.com/eat2020/gasdoctor>
-	
-	
-	import math
-    print("This is a test python code")
+Software
+--------
+* Arduino IDE (C based Programming)
+* Orcad 9.2
 
-RST syntax
-++++++++++
+Hardware
+--------
+* Arduino Mega2560
+* Load Cell and HX711 Driver Module
+* DS1307 RTC Module
+* SD Memory Card Module
+* 16x2 LCD 
 
-RST syntaxes on rst can be found on the following `link <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`_ 
+To do
+-----
+Need to add WiFi module and connected via Android Mobile and get display and control using Android App.
